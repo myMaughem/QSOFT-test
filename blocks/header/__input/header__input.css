@@ -17,16 +17,11 @@
 @media (min-width:1024px) {
   .header__input {
     width: 650px;
-    margin-left: 4px;
   }
 }
 @media (min-width:1240px) {
   .header__input {
     width: 854px;
-  }
-}
-@media (min-width:1440px) {
-  .header__input {
     margin-left: 3px;
   }
 }

@@ -18,9 +18,3 @@
     margin-top: 20px;
   }
 }
-@media (min-width:1440px) {
-  .header__title {
-    margin-left: 14px;
-    margin-top: 20px;
-  }
-}

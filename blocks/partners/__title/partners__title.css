@@ -19,18 +19,13 @@
 @media (min-width:1024px) {
   .partners__title {
     width: 988px;
+    font-size: 34px;
+    line-height: 162%;
+    margin-bottom: 16px;
   }
 }
 @media (min-width:1240px) {
   .partners__title {
-    width: 1178px;
-  }
-}
-@media (min-width:1440px) {
-  .partners__title {
     width: 1172px;
-    font-size: 34px;
-    line-height: 162%;
-    margin-bottom: 16px;
   }
 }

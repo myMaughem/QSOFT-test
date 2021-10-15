@@ -1,0 +1,11 @@
+@media (min-width:550px) {
+  .header__column_1 {
+    order: 1;
+  }
+  .header__column_2 {
+    order: 3;
+  }
+  .header__column_3 {
+    order: 2;
+  }
+}
