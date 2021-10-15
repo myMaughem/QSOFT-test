@@ -1,0 +1,20 @@
+.header__profile_pc {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  cursor: pointer;
+}
+.header__profile_pc:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
+}
+@media (min-width:768px) {
+  .header__profile_pc {
+    visibility: visible;
+    opacity: 1;
+    width: 149px;
+    height: 80px;
+    position: relative;
+    display: flex;
+  }
+}

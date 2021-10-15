@@ -1,0 +1,12 @@
+.partners {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-top: 1px solid #dde9ff;
+}
+@media (min-width:1168px) {
+  .partners__list {
+    width: 100%;
+  }
+}

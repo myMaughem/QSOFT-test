@@ -1,0 +1,36 @@
+.partners__name {
+  width: 335px;
+  height: 140px;
+  cursor: pointer;
+  border: 1px solid #EBEBF1;
+  margin: 9px;
+  border-radius: 5px;
+  object-fit: contain;
+}
+.partners__name:last-child {
+  margin-bottom: 0;
+}
+@media (min-width:550px) {
+  .partners__name {
+    width: 229px;
+    height: 107px;
+  }
+}
+@media (min-width:768px) {
+  .partners__name {
+    width: 229px;
+    height: 120px;
+  }
+}
+@media (min-width:1240px) {
+  .partners__name {
+    width: 270px;
+    height: 120px;
+    margin: 15px;
+  }
+}
+
+.partners__name:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
+}

@@ -1,4 +1,4 @@
-.body {
+/* .body {
   font-family: sans-serif;
   padding: 0;
   margin: 0 auto;
@@ -73,9 +73,9 @@
     margin-left: 14px;
     margin-top: 20px;
   }
-}
+} */
 
-.header__profile_mobile {
+/* .header__profile_mobile {
   margin-right: 20.97px;
   margin-top: 26.23px;
   width: 24px;
@@ -92,8 +92,8 @@
     display: none;
     position: absolute;
   }
-}
-.header__profile_pc {
+} */
+/* .header__profile_pc {
   visibility: hidden;
   opacity: 0;
   position: absolute;
@@ -130,11 +130,11 @@
   .header__profile_pc__text {
     margin-left: 0;
   }
-}
+} */
 
 
 
-.header__profile_pc__photo {
+/* .header__profile_pc__photo {
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -148,10 +148,10 @@
     height: 40px;
     border-radius: 50%;
   }
-}
+} */
 
 
-.header__loupe {
+/* .header__loupe {
   display: flex;
   cursor: pointer;
   margin: auto;
@@ -191,9 +191,9 @@
     width: 897px;
     margin-top: 19px;
   }
-}
+} */
 
-.header__loupe-logo {
+/* .header__loupe_logo {
   width: 24px;
   height: 24px;
   margin: 8px 2px 8px 20px;
@@ -203,11 +203,11 @@
   .header__loupe-logo {
     margin-left: 7px;
   }
-}
+} */
 
 
 
-.header__input {
+/* .header__input {
   width: 310px;
   height: 20px;
   margin-top: 8px;
@@ -238,7 +238,7 @@
   .header__input {
     margin-left: 3px;
   }
-}
+} */
 
 
 
@@ -247,7 +247,7 @@
 
 
 
-.partners {
+/* .partners {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -258,9 +258,9 @@
   .partners__list {
     width: 100%;
   }
-}
+} */
 
-.partners__title {
+/* .partners__title {
   margin: 70px auto 30px;
   width: 335px;
   font-size: 27px;
@@ -295,9 +295,9 @@
     line-height: 162%;
     margin-bottom: 16px;
   }
-}
+} */
 
-.partners__list {
+/* .partners__list {
   width: 375px;
   margin: 0 auto 73px;
   display: flex;
@@ -324,9 +324,9 @@
   .partners__list {
     width: 1208px;
   }
-}
+} */
 
-.partners__name {
+/* .partners__name {
   width: 335px;
   height: 140px;
   cursor: pointer;
@@ -361,4 +361,4 @@
 .partners__name:hover {
   opacity: 0.8;
   transition: opacity 0.3s ease-in-out;
-}
+} */

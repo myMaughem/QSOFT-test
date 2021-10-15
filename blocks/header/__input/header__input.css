@@ -1,0 +1,32 @@
+.header__input {
+  width: 310px;
+  height: 20px;
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: 16px;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+}
+@media (min-width:768px) {
+  .header__input {
+    width: 400px;
+    margin-left: 4px;
+  }
+}
+@media (min-width:1024px) {
+  .header__input {
+    width: 650px;
+    margin-left: 4px;
+  }
+}
+@media (min-width:1240px) {
+  .header__input {
+    width: 854px;
+  }
+}
+@media (min-width:1440px) {
+  .header__input {
+    margin-left: 3px;
+  }
+}

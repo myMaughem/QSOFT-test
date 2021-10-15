@@ -1,0 +1,28 @@
+.partners__list {
+  width: 375px;
+  margin: 0 auto 73px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+@media (min-width:550px) {
+  .partners__list {
+    width: 503px;
+    justify-content: start;
+  }
+}
+@media (min-width:768px) {
+  .partners__list {
+    width: 751px;
+  }
+}
+@media (min-width:1024px) {
+  .partners__list {
+    width: 1005px;
+  }
+}
+@media (min-width:1240px) {
+  .partners__list {
+    width: 1208px;
+  }
+}

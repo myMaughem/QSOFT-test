@@ -1,0 +1,41 @@
+.header__loupe {
+  display: flex;
+  cursor: pointer;
+  margin: auto;
+  width: 375px;
+  border-top: 1px solid #EBEBF1;
+}
+.header__loupe:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
+}
+@media (min-width:550px) {
+  .header__loupe {
+    border: 1px solid #EBEBF1;
+    border-radius: 5px;
+  }
+}
+@media (min-width:768px) {
+  .header__loupe {
+    width: 458px;
+    margin-top: 18px;
+    margin-left: 36px;
+  }
+}
+@media (min-width:1024px) {
+  .header__loupe {
+    width: 700px;
+    margin-top: 19px;
+  }
+}
+@media (min-width:1240px) {
+  .header__loupe {
+    width: 910px;
+  }
+}
+@media (min-width:1440px) {
+  .header__loupe {
+    width: 897px;
+    margin-top: 19px;
+  }
+}

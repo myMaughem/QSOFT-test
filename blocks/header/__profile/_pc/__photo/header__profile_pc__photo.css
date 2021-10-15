@@ -1,0 +1,15 @@
+.header__profile_pc__photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-image: url(../../../../../image/profile_big.svg);
+}
+@media (min-width:768px) {
+  .header__profile_pc__photo {
+    margin-left: 9px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+}

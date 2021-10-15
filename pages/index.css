@@ -1,3 +1,19 @@
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/blocks.css);
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__title/_column.css);
+@import url(../blocks/header/__profile/_mobile/header__profile_mobile.css);
+@import url(../blocks/header/__profile/_pc/header__profile_pc.css);
+@import url(../blocks/header/__profile/_pc/__photo/header__profile_pc__photo.css);
+@import url(../blocks/header/__profile/_pc/__text/header__profile_pc__text.css);
+@import url(../blocks/header/__loupe/header__loupe.css);
+@import url(../blocks/header/__loupe/_logo/header__loupe_logo.css);
+@import url(../blocks/header/__input/header__input.css);
+
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__title/partners__title.css);
+@import url(../blocks/partners/__name/partners__name.css);
+@import url(../blocks/partners/__list/partners__list.css);

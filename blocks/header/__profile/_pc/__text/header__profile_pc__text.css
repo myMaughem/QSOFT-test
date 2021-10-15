@@ -1,0 +1,17 @@
+.header__profile_pc__text {
+  width: 79px;
+  height: 17px;
+  font-size: 15px;
+  line-height: 122%;
+}
+@media (min-width:768px) {
+  .header__profile_pc__text {
+    margin-top: 31px;
+    margin-left: 8px;
+  }
+}
+@media (min-width:1440px) {
+  .header__profile_pc__text {
+    margin-left: 0;
+  }
+}

@@ -1,0 +1,11 @@
+.header__loupe_logo {
+  width: 24px;
+  height: 24px;
+  margin: 8px 2px 8px 20px;
+  background-image: url(../../../../../image/loupe.svg);
+}
+@media (min-width:768px) {
+  .header__loupe-logo {
+    margin-left: 7px;
+  }
+}
